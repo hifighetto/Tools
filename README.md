@@ -6,3 +6,5 @@ All of the folders have a README for clearity and ease of use.
 Most of the scripts will have comments in them as well. 
 
 Find my other stuff at [linktr.ee](https://linktr.ee/hifighetto)
+
+Each project has a local README file for the expected usage.
