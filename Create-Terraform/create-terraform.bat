@@ -42,7 +42,7 @@ echo     dynamodb_table = "%BucketTable%" >> %PathName%\backend.tf
 echo   } >> %PathName%\backend.tf
 echo   required_providers { >> %PathName%\backend.tf
 echo     aws = { >> %PathName%\backend.tf
-echo       version = "3.22.0" >> %PathName%\backend.tf
+echo       version = "4.25.0" >> %PathName%\backend.tf
 echo       source  = "hashicorp/aws" >> %PathName%\backend.tf
 echo     } >> %PathName%\backend.tf
 echo   } >> %PathName%\backend.tf
